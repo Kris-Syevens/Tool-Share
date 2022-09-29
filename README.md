@@ -1,18 +1,18 @@
-<h1 align="center"> Bug-Zapper </h1>
+<h1 align="center"> Tool-Share </h1>
 <h3 align="center"> ***Currently Under Construction*** </h3>
 <h4 align="center"> Wireframing and Design </h4>
 <p>
-Welcome to the Bug-Zapper web application! This application provides organizations with a simple, yet effective software ticket management system.     </p>
+Welcome to the Tool-Share web application! This application gives homeowners and renters the ability to monetize unused assets.     </p>
 
 ## Links
 
-- [Live](https://kris-syevens.github.io/Bug-Zapper)
+- [Live](https://kris-syevens.github.io/Tool-Share)
 
 
 
 ## Screenshots
 
-![Home Page](images/Preview.png)
+![Home Page](Assets/Preview.png)
 
 
 
